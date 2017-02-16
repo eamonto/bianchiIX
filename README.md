@@ -124,17 +124,17 @@ This file contains the parameters of the program:
 
 Parameter     | Description
 ------------- | --------------
-1.0           | mu1c1
-1.0           | mu2c2
-1.0           | mu3c3
+1.5708        | mu1c1
+1.5708        | mu2c2
+1.5708        | mu3c3
 100.0         | p1
-100.0         | p2
-100.0         | p3
+200.0         | p2
+300.0         | p3
 0.0           | Initial Time
 1.0           | Final Time
-1.0e-4        | Time Step
-10            | Number of time steps for write the output
-0             | 0 = Bianchi I,  1 = Bianchi IX
+5.0e-4        | Time Step
+20            | Number of time steps for write the output
+2             | 1 = Bianchi I,  2 = Bianchi IX
 1             | 0 = Classical,  1 = Effective
 0             | Effective Equations; 0 = Edward,  1 = Asieh
 0             | Asieh Equations; 0 = Reduce to FRW,  1 = Not Reduce to FRW
