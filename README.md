@@ -3,9 +3,9 @@ README
 Program to solve the Effective Loop Quantum Cosmology Equations 
 for Bianchi IX.
 
-** Written by Edison Montoya (c) 2017**
+**Written by Edison Montoya (c) 2017**
 
-** Up to date: Feb 16 2017**
+**Up to date: Feb 16 2017**
 
 In this file we specify how to use the program and we explain
 the file's content and the functions.
@@ -115,8 +115,8 @@ specified in the Makefile. The files are:
 
 ------------------------------------------------------------------------
 
-** Now it is describe the files contained in this directory and the role
-that they play in the solution of the problem. **
+**Now it is describe the files contained in this directory and the role
+that they play in the solution of the problem.**
 
 param.txt
 ------------------------------------------------------------------------
